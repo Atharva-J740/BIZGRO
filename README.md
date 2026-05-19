@@ -60,8 +60,8 @@ No build tools or package managers needed. Just a browser.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Atharva-J740/bizgro.git
-   cd bizgro
+   git clone https://github.com/Atharva-J740/BIZGRO.git
+   cd BIZGRO
    ```
 
 2. **Open in browser**
